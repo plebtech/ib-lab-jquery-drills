@@ -9,10 +9,10 @@
 
 ### Tasks
 * In app.js, make sure all the HTML has loaded before using jQuery. (hint)
-* Create an <input> with a type="submit", id="btnSubmit", and value="Submit" in the index.html. Open the index.html in a browser and verify that a button appears.
-* In app.js and use jQuery to select the <input> element you just created by the id.
-* Add a click event handler to the <input> button that will alert a message in the browser when the button is clicked. (hint)
-* In the index.html, create a <form> element with an <input type="text"> field and the <input type="submit"> you already created.
+* Create an `<input>` with a `type="submit"`, `id="btnSubmit"`, and `value="Submit"` in the index.html. Open the index.html in a browser and verify that a button appears.
+* In app.js and use jQuery to select the `<input>` element you just created by the id.
+* Add a click event handler to the `<input>` button that will alert a message in the browser when the button is clicked. (hint)
+* In the index.html, create a `<form>` element with an `<input type="text">` field and the `<input type="submit">` you already created.
 * In app.js when the form is submitted, alert the value of the text input field. (hint) (hint)
 * If the user has typed in the input field then the button should be enabled, otherwise the button should be disabled. (hint)
 * Create a div element and append it to the body.
